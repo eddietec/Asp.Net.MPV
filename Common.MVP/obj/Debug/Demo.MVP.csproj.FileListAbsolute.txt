@@ -1,0 +1,5 @@
+D:\Projects\Demo.MVP\Demo.MVP\bin\Debug\Demo.MVP.dll
+D:\Projects\Demo.MVP\Demo.MVP\bin\Debug\Demo.MVP.pdb
+D:\Projects\Demo.MVP\Demo.MVP\obj\Debug\Demo.MVP.csprojResolveAssemblyReference.cache
+D:\Projects\Demo.MVP\Demo.MVP\obj\Debug\Demo.MVP.dll
+D:\Projects\Demo.MVP\Demo.MVP\obj\Debug\Demo.MVP.pdb

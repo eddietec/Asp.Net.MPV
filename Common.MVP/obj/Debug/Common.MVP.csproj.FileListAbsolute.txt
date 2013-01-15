@@ -1,4 +1,0 @@
-D:\Projects\Demo.MVP\Demo.MVP\bin\Debug\Common.MVP.dll
-D:\Projects\Demo.MVP\Demo.MVP\bin\Debug\Common.MVP.pdb
-D:\Projects\Demo.MVP\Demo.MVP\obj\Debug\Common.MVP.dll
-D:\Projects\Demo.MVP\Demo.MVP\obj\Debug\Common.MVP.pdb

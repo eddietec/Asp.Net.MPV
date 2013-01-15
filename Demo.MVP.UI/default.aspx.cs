@@ -10,5 +10,6 @@ namespace Demo.MVP.UI
         {
             get; set;
         }
+
     }
 }
